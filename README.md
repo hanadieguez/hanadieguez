@@ -1,9 +1,3 @@
-<style>
- .certificados {
- width: 200px;
- }
-</style>
-
 ## Bem-vindo(a) ao meu perfil 😁
 
  <div>
@@ -28,6 +22,6 @@
   
 </div>
 
-<div class="certificados">
+<div style="width: 200px">
  <img src="https://cdn.discordapp.com/attachments/1010603927328260127/1090992581640474695/8ffce3af-e22e-4cb0-b2f3-3fdd6f441873.png">
 </div>
