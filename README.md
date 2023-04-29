@@ -21,8 +21,3 @@
   <a href = "mailto:lkdieguezofc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
-
-<div>
- <img width="500" src="https://cdn.discordapp.com/attachments/1010603927328260127/1090992581640474695/8ffce3af-e22e-4cb0-b2f3-3fdd6f441873.png">
- <img width="500" src="https://cdn.discordapp.com/attachments/1010603927328260127/1092455674258133162/image.png">
-</div>
