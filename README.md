@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vind@ ao meu perfil 😁
 
  <div>
    <a href="https://github.com/lkadieguez">
