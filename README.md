@@ -11,7 +11,7 @@
    </a>
 </div>
 <br><br>
-<hr>
+
 
 ## Tecnologias que domino 💪🏻
 <br>
@@ -20,7 +20,7 @@
   <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <br><br>
-<hr>
+
 
 ## Tecnologias que estou estudando 🧠
 <br>
@@ -30,7 +30,7 @@
   <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 <br><br>
-<hr>
+
 
 ## Entre em contato!
 <br>
