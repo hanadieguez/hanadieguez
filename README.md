@@ -12,8 +12,8 @@
 </div>
 <br><br>
 
-
 ## Tecnologias que domino 💪🏻
+
 <br>
 <div style="display: flex; gap: 10px">
   <img align="center" alt="Js" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,8 +21,8 @@
 </div>
 <br><br>
 
-
 ## Tecnologias que estou estudando 🧠
+
 <br>
 <div style="display: flex; gap: 10px">
   <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -31,8 +31,19 @@
 </div>
 <br><br>
 
+## Ferramentas que uso ⚙️
+
+<br>
+<div style="display: flex; gap: 10px">
+  <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</div>
+<br><br>
 
 ## Entre em contato!
+
 <br>
 <div style="display: flex; gap: 10px">
   <a href="mailto:hanaadieguez@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
