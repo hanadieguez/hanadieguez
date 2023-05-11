@@ -50,4 +50,9 @@
   <a href="https://www.linkedin.com/in/luis-henrique-dieguez-01907626a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br><br>
+
+### Badgets
+
+<a href="https://dev.to/envoy_/150-badges-for-github-pnk"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
+<br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
